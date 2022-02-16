@@ -1,0 +1,8 @@
+REM Haha rickroll. Target: ChromeOS (Change GUI to "GUI R" for windows.)
+DELAY 1000
+GUI
+STRING https://www.youtube.com/watch?v=QtBDL8EiNZo
+DELAY 100
+ENTER
+DELAY 8000
+STRING f
