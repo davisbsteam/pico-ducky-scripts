@@ -1,4 +1,4 @@
-REM Subscribes to a youtuber of your choice. Target: Chrome OS. Author: BlazeDev
+REM Subscribes to a youtuber of your choice. Target: Chrome OS.
 DELAY 1000
 GUI
 DELAY 100
