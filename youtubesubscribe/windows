@@ -1,0 +1,13 @@
+REM Subscribes to a youtuber of your choice. Target: Windows 10 and above. Author: BlazeDev
+DELAY 1000
+GUI R
+DELAY 100
+STRING youtube.com/user/foodwishes/?sub_confirmation=1
+DELAY 150
+ENTER
+DELAY 8000
+TAB
+TAB
+ENTER
+DELAY 100
+CTRL W
